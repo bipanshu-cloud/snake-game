@@ -16,9 +16,6 @@ Ensure you have Python installed on your system. Then, install the Pygame librar
 pip install pygame
 
 2. Clone the Repository or Download the Files
-Clone the repository using Git:
-
-git clone https://github.com/yourusername/snake-game.git
 Alternatively, you can manually download the files from this repository.
 
 # 3. Run the Game
